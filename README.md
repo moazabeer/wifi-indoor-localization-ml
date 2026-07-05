@@ -49,6 +49,13 @@ Each scan contains:
 - Security
 - X coordinate
 - Y coordinate
+  
+## Related Project
+
+This dataset was collected using **WiFi-Heatmap-Analyzer**, a desktop application for collecting and visualizing WiFi fingerprints.
+
+Repository:
+https://github.com/moazabeer/WiFi-Heatmap-Analyzer
 
 ## Status
 
