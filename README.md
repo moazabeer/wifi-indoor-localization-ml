@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="results/banner.png" width="100%">
+</p>
+
 # 📡 WiFi Indoor Localization using Machine Learning
 
 A machine learning-based indoor localization system that estimates a user's position using WiFi RSSI fingerprinting. The project builds a fingerprint database from WiFi scans and compares multiple regression models to accurately predict indoor coordinates.
