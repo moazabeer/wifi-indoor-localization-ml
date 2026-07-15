@@ -1,7 +1,7 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-xgboost
-joblib
-jupyter
+numpy>=2.0
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.5
+joblib>=1.4
+jupyter>=1.0
+notebook>=7.0
